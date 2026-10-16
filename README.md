@@ -21,3 +21,13 @@ pip install -e testra
 ```
 
 ## Run
+
+
+## License
+
+The original code in this repository is licensed under the
+[MIT License](LICENSE).
+
+The [TeSTra](testra) submodule is licensed separately under the
+[Apache License 2.0](testra/LICENSE). Its attribution notice is available in
+[testra/NOTICE](testra/NOTICE).
