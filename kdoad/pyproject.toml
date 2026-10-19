@@ -30,7 +30,9 @@ dependencies = [
     "timm==1.0.28",
     "torchcodec==0.11.1",
     "scikit-learn==1.9.0",
-    "pandas==2.3.3"
+    "pandas==2.3.3",
+    "gdown==6.4.2",
+    "huggingface_hub==2.2.0"
 ]
 
 [tool.setuptools.packages.find]
